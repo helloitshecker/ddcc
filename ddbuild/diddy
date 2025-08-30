@@ -1,0 +1,8 @@
+[project]
+name = Diddy Builder
+version = 0.0.1
+description = A Build System for Diddy OS
+
+[executable]
+name = ddbuild 
+files = ddbuild.c
